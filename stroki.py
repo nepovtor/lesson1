@@ -1,0 +1,13 @@
+name = input('Write your name  ')
+surname =  input('write your surname  ')
+print(name, surname)
+str1 = "hello"
+print(str1.capitalize())
+print(str1.upper())
+print(str1.lower())
+print(str1.isupper())
+print(str1.index("l"))
+print(str1.find("llo"))
+print(len(name))
+print('*'*11)
+print('*'surname)
